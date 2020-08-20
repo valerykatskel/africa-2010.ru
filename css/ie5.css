@@ -1,0 +1,25 @@
+	@charset "utf-8";
+
+body {
+	text-align: center;
+}
+#wrapper,
+#city-menu1,
+#city-menu2,
+#content {
+	text-align: left;
+}
+#head  #zakaz,
+#head  #logo{
+	cursor: hand;
+	behavior: url(../js/iepngfix/iepngfix.php)
+}
+#city-menu1 li,
+#city-menu2 li{
+	padding:0;
+}
+#main-menu ul li.last {
+	height: 46px;
+}
+
+

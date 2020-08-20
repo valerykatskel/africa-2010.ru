@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+#head  #zakaz,
+#head  #logo{
+	cursor: hand;
+	behavior: url(../js/iepngfix/iepngfix.php)
+}
